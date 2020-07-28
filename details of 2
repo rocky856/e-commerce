@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+
+    <title>Details</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-primary">
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <a class="navbar-brand" href="#">Sri Machinery & Tools</a>
+
+      <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
+        <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+          <li class="nav-item active">
+            <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Link</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+          </li> 
+        </ul>
+        <form class="form-inline my-2 my-lg-0">
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Login</button>
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Sign Up</button>
+        </form>
+      </div>
+    </nav>
+    <br>
+    <div class="container">
+     <form>
+        <div class="jumbotron">
+          <!-- Page Content -->
+          <div class="container">
+
+            <!-- Portfolio Item Heading -->
+            <h1 class="my-4">Canon EOS REBEL 
+              <small>T7i</small>
+            </h1>
+
+            <!-- Portfolio Item Row -->
+            <div class="row">
+
+              <div class="col-md-8">
+                <img class="img-fluid" src="https://www.mobiask.com/wp-content/uploads/2018/09/Camara2.jpeg" alt="">
+              </div>
+
+              <div class="col-md-4">
+                <h2 class="my-2">Rs:22000</h2>
+                <h3 class="my-3">Canon T7i</h3>
+                <p>Built in Wi Fi, NFC and Bluetooth Lens used: EF S 18 55 millimeter f/4 56 IS STM (at focal length of 55 millimeter)
+                High Speed continuous shooting at up to 60 fps Weight Approx 1877 ounce / 532 grams (including battery pack and SD memory card) Approx 1711 ounce / 485 gram (body only).</p>
+                <h3 class="my-3">Features :</h3>
+                <ul>
+                  <li>242 Megapixel CMOS (APS C) sensor
+                  <li>Great for compact to midrange point and shoot digital cameras and camcorders</li>
+                  <li>Twice As Fast As Ordinary SDHC Cards, Allowing You To Take Pictures And Transfer Files Quickly.</li>
+                  <li>Exceptional video recording performance with Class 10 rating for Full HD video (1080p).</li>
+                  <button type="submit" class="btn btn-primary">Buy Now</button>
+                </ul>
+              </div>
+
+            </div>
+            <!-- /.row -->
+
+            <!-- Related Projects Row -->
+            <h3 class="my-4">Related Camera</h3>
+
+            <div class="row">
+
+              <div class="col-md-3 col-sm-6 mb-4">
+                <a href="#">
+                      <img class="img-fluid" src="https://images-na.ssl-images-amazon.com/images/I/61-hlE%2BgajL._AC_SX466_.jpg" alt="">
+                    </a>
+              </div>
+
+              <div class="col-md-3 col-sm-6 mb-4">
+                <a href="#">
+                      <img class="img-fluid" src="https://images-na.ssl-images-amazon.com/images/I/71H9XbRZmlL._AC_SX679_.jpg" alt="">
+                    </a>
+              </div>
+
+              <div class="col-md-3 col-sm-6 mb-4">
+                <a href="#">
+                      <img class="img-fluid" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQf4WEwiVkm9-UFe9ixvs_4hfSYSgsoulu7zQ&usqp=CAU" alt="">
+                    </a>
+              </div>
+
+              <div class="col-md-3 col-sm-6 mb-4">
+                <a href="#">
+                      <img class="img-fluid" src="https://target.scene7.com/is/image/Target/GUEST_c86b8653-e0fc-4418-847b-6ba0113a4ca5?wid=488&hei=488&fmt=pjpeg" alt="">
+                    </a>
+              </div>
+
+            </div>
+            <!-- /.row -->
+
+          </div>
+          <!-- /.container -->
+        </div> 
+      </form>
+    </div>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+  </body>
+</html>
